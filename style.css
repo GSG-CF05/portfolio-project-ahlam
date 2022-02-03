@@ -1,9 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Pacifico&family=Roboto:wght@100&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@200&family=Pacifico&family=Roboto:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Lobster&family=Montserrat:wght@200&family=Pacifico&family=Roboto:wght@100&display=swap');
 #part1{
     margin: 10%;
     padding: 0%;
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Pacifico', cursive;
     color: cadetblue;
 }
@@ -13,14 +14,19 @@
     padding-top:0%;
     color: black;
     font-size: 30px;
-    font-family: 'Pacifico', cursive;
-   
+    font-family: 'Balsamiq Sans', cursive;
 
 }
+span{
+    color: blue;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+}
+
 #part2{
     margin: 10%;
     padding: 0%;
-    font-size: 40px;
+    font-size: 50px;
     font-family: 'Pacifico', cursive;
     color: cadetblue;
 }
@@ -30,7 +36,7 @@
     padding-top:0%;
     color: black;
     font-size: 30px;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Balsamiq Sans', cursive;
    
 
 }
