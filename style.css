@@ -17,4 +17,21 @@
    
 
 }
+#part2{
+    margin: 10%;
+    padding: 0%;
+    font-size: 40px;
+    font-family: 'Pacifico', cursive;
+    color: cadetblue;
+}
+.skills{
+    margin: 0%;
+    padding: 0%;
+    padding-top:0%;
+    color: black;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+   
+
+}
 
