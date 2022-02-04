@@ -93,4 +93,23 @@ body{
 .heading2{
     color: red;
 }
+.part3{
+    text-align: center;
+    font-weight: 500px;
+    font-size: 200%;
+    text-transform: capitalize;
+
+}
+.skills{
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    font-size: 100%;
+    font-weight: 300;
+    line-height: 35px;
+    margin-bottom: 40px;
+}
+#skill{
+    color: red;
+}
 
